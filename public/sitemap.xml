@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-01-21T14:58:46-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/peptides/</loc>
+    <lastmod>2026-01-21T14:58:46-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/peptides/tb-500/</loc>
+    <lastmod>2026-01-21T14:58:46-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/peptides/mots-c/</loc>
+    <lastmod>2026-01-21T14:58:41-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/peptides/bpc-157/</loc>
+    <lastmod>2026-01-21T14:58:37-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/peptides/ghk-cu/</loc>
+    <lastmod>2026-01-21T14:58:32-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/peptides/retatrutide/</loc>
+  </url><url>
+    <loc>http://localhost:1313/safety/</loc>
+  </url><url>
+    <loc>http://localhost:1313/sources/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>

@@ -1,0 +1,7 @@
+baseURL = "https://affinitypeptides.com/"
+languageCode = "en-us"
+title = "Affinity Peptides"
+theme = "ananke"
+
+[params]
+  description = "Independent research knowledge base on peptides, metabolic health, and regenerative biology."

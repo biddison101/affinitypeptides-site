@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peptide Research Library on Affinity Peptides</title>
+    <link>http://localhost:1313/peptides/</link>
+    <description>Recent content in Peptide Research Library on Affinity Peptides</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Jan 2026 14:58:46 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/peptides/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tb 500</title>
+      <link>http://localhost:1313/peptides/tb-500/</link>
+      <pubDate>Wed, 21 Jan 2026 14:58:46 -0600</pubDate>
+      <guid>http://localhost:1313/peptides/tb-500/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mots C</title>
+      <link>http://localhost:1313/peptides/mots-c/</link>
+      <pubDate>Wed, 21 Jan 2026 14:58:41 -0600</pubDate>
+      <guid>http://localhost:1313/peptides/mots-c/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bpc 157</title>
+      <link>http://localhost:1313/peptides/bpc-157/</link>
+      <pubDate>Wed, 21 Jan 2026 14:58:37 -0600</pubDate>
+      <guid>http://localhost:1313/peptides/bpc-157/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ghk Cu</title>
+      <link>http://localhost:1313/peptides/ghk-cu/</link>
+      <pubDate>Wed, 21 Jan 2026 14:58:32 -0600</pubDate>
+      <guid>http://localhost:1313/peptides/ghk-cu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Retatrutide</title>
+      <link>http://localhost:1313/peptides/retatrutide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/peptides/retatrutide/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Retatrutide is an investigational triple-agonist peptide designed to target three key metabolic hormone receptors involved in weight regulation and glucose control:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;GLP-1 (glucagon-like peptide-1)&lt;/li&gt;&#xA;&lt;li&gt;GIP (glucose-dependent insulinotropic polypeptide)&lt;/li&gt;&#xA;&lt;li&gt;Glucagon receptor&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This multi-receptor approach is intended to improve metabolic flexibility, enhance fat loss, and preserve lean mass more effectively than single-pathway therapies.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;mechanism-of-action&#34;&gt;Mechanism of Action&lt;/h2&gt;&#xA;&lt;p&gt;Retatrutide activates:&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Receptor&lt;/th&gt;&#xA;          &lt;th&gt;Function&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;GLP-1&lt;/td&gt;&#xA;          &lt;td&gt;Reduces appetite, slows gastric emptying, increases insulin secretion&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;GIP&lt;/td&gt;&#xA;          &lt;td&gt;Enhances insulin response and nutrient partitioning&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Glucagon&lt;/td&gt;&#xA;          &lt;td&gt;Increases energy expenditure and fat oxidation&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;By stimulating all three pathways, Retatrutide produces a synergistic metabolic effect that promotes weight loss while supporting glycemic control.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
