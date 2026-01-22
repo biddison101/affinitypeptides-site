@@ -12,6 +12,17 @@ Retatrutide is an investigational triple-agonist peptide designed to target thre
 
 This multi-receptor approach is intended to improve metabolic flexibility, enhance fat loss, and preserve lean mass more effectively than single-pathway therapies.
 
+> **Research Availability**  
+> This peptide is available for qualified laboratory and research use.  
+> For sourcing or analytical reference inquiries, please contact us:
+> 
+> - **WhatsApp:** https://wa.me/message/PRBWJ5GAFOTFK1  
+> - **Facebook:** https://www.facebook.com/profile.php?id=61585880675784
+
+---
+
+## Mechanism of Action
+
 ---
 
 ## Mechanism of Action
