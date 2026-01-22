@@ -5,3 +5,36 @@ theme = "ananke"
 
 [params]
   description = "Independent research knowledge base on peptides, metabolic health, and regenerative biology."
+
+[menu]
+
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Peptides"
+    url = "/peptides/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Sources"
+    url = "/sources/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Safety"
+    url = "/safety/"
+    weight = 5
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 6
+
