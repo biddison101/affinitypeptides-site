@@ -2,7 +2,6 @@
 title: "Thymosin Alpha-1 (TA-1)"
 ---
 
-# Thymosin Alpha-1 (TA-1)  
 ### Comprehensive Research Overview, Mechanisms, Use Cases & Protocols
 
 ---
